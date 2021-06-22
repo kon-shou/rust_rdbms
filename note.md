@@ -1,0 +1,6 @@
+- prettierみたいなの欲しい
+- 構造体
+- `fn` の引数ってどんな？
+- &mut
+- self/Selfの違い
+- io::Result
